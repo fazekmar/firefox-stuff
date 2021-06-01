@@ -1,0 +1,5 @@
+/* Remove sidebar width limit */
+#sidebar {
+  max-width: none !important;
+  min-width: 0px !important;
+}

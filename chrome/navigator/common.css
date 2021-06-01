@@ -1,0 +1,11 @@
+/* Remove ugly roundings */
+/* main, downloads, etc */
+#mainPopupSet,
+/* buttons, extension menu, bookmarks, etc */
+#navigator-toolbox {
+  --arrowpanel-menuitem-border-radius: 0px;
+  --tab-border-radius: 0px;
+  --toolbarbutton-border-radius: 0px;
+  --arrowpanel-border-radius: 0px;
+  --arrowpanel-menuitem-border-radius: 0px;
+}

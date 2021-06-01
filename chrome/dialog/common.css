@@ -1,0 +1,5 @@
+/* Remove ugly roundings */
+/* Edit bookmark, etc*/
+.dialogBox {
+  border-radius: 0px !important;
+}

@@ -1,0 +1,6 @@
+/* Hide the whole tabs toolbar, it is easier to use other solutions (eg. tree style tabs)
+ * than to constantly adapt to the whims of mozilla product developers
+ */
+#TabsToolbar {
+  display: none !important;
+}
