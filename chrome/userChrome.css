@@ -1,6 +1,9 @@
 @import "navigator/common.css";
 @import "navigator/disable-tabs.css";
 
+@import "navigator/bookmarks-toolbar-auto-hide.css";
+@import "navigator/bookmarks-toolbar-separator-color.css";
+
 @import "dialog/common.css";
 
 @import "sidebar/unlock-width.css";

@@ -1,0 +1,12 @@
+#PersonalToolbar {
+  min-height: 0px !important;
+  max-height: 0px !important;
+  opacity: 0 !important;
+  transition: all 250ms !important;
+}
+
+#navigator-toolbox:hover > #PersonalToolbar {
+  min-height: 24px !important;
+  opacity: 1 !important;
+  transition: all 250ms, opacity 500ms !important;
+}
