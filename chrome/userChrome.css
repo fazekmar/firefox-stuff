@@ -7,5 +7,6 @@
 @import "dialog/common.css";
 
 @import "sidebar/unlock-width.css";
+@import "sidebar/splitter.css";
 
 @import "sidebar/tree-style-tab-disable-header.css";

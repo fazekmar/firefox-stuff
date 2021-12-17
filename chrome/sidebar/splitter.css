@@ -1,0 +1,13 @@
+#sidebar-splitter {
+  width: 4px !important;
+  background-color: #463f4d !important;
+  border-color: #463f4d !important;
+  transition: all 250ms !important;
+}
+
+#sidebar-splitter:hover {
+  width: 4px !important;
+  background-color: #00ddff !important;
+  border-color: #00ddff !important;
+  transition: all 250ms 50ms !important;
+}
