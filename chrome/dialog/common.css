@@ -3,3 +3,11 @@
 .dialogBox {
   border-radius: 0px !important;
 }
+
+/* Right click context menus */
+menupopup {
+  /* Roundings */
+  --panel-border-radius: 0px !important;
+  /* Hide top and bottom unnecessary padding */
+  --panel-padding: 0px !important;
+}
