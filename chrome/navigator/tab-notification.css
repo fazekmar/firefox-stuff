@@ -1,0 +1,8 @@
+/* Do not mess the height of the sidebar */
+#tab-notification-deck {
+  display: block;
+  position: absolute;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
