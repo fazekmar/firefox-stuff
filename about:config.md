@@ -13,7 +13,7 @@ browser.tabs.insertRelatedAfterCurrent: false
 
 ---
 
-Don't mess with the context menu
+Don't mess with the context menu (hint: Shift+Right click does the same thing)
 
 ```
 dom.event.contextmenu.enabled: false
@@ -23,6 +23,12 @@ Websites use light CSS theme (don't report actual system/firefox theme)
 
 ```
 ui.systemUsesDarkTheme: 0
+```
+
+Use light gtk theme
+
+```
+widget.gtk.alt-theme.dark: 	false
 ```
 
 Disable remote fonts
