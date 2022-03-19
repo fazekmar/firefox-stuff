@@ -1,4 +1,5 @@
 @import "navigator/common.css";
+@import "navigator/bookmarks-panel.css";
 @import "navigator/disable-tabs.css";
 @import "navigator/tab-notification.css";
 
@@ -6,6 +7,7 @@
 @import "navigator/bookmarks-toolbar-separator-color.css";
 
 @import "dialog/common.css";
+@import "dialog/bookmarks.css";
 
 @import "sidebar/unlock-width.css";
 @import "sidebar/splitter.css";

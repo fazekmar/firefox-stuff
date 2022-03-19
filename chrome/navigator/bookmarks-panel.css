@@ -1,0 +1,4 @@
+/* Fix "flickering" in bookmark panel */
+#editBookmarkPanel {
+  width: 512px;
+}

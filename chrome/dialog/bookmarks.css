@@ -1,0 +1,7 @@
+/* Bookmark create/edit modal */
+
+/* Location selector */
+#editBMPanel_folderTreeRow,
+#editBMPanel_folderTree {
+  height: 512px;
+}
